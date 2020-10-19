@@ -1,0 +1,17 @@
+{
+  "name": "customer",
+  "version": "1.0.0",
+  "description": "customers information",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Shubham Pawar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "mysql": "^2.18.1"
+  }
+}
